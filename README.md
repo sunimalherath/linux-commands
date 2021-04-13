@@ -1,31 +1,23 @@
 # Useful Linux Commands
 
 
-## The Shell
-### Which shell is running
-> ps $$
+## 01. The Shell
+> shell.md
 
-### To check shell version
-> bash --version **if the shell is bash shell*
+## 02. Managing Files and Folders
 
-### "type" command
-*to check whether a command is a built-in command or a location of program*
+## 03. Text Handling
 
-> type whoami
+## 04. Editing Commands
 
-### Location of the shell
-*e.g: location of the bash shell*
+## 05. Customizing Environments
 
-> echo $SHELL
+## 06. Controlling Behaviour
 
-### Wildcards
-#### ?
-*for single character*
-> ls image-0?.jpg </br>
-> *i.e: lists files with name image-0X.jpg where X is 0..9*
+## 07. Performing Operations
 
-#### *
-> ls *.dat </br>
-> *i.e: lists all .dat files*
-#### [*set*]
-#### [*!set*]
+## 08. Directing Flow
+
+## 09. Employing Functions
+
+## 10. Reference
